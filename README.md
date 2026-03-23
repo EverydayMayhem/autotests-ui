@@ -1,0 +1,2 @@
+# autotests-ui
+Playwright + pytest
